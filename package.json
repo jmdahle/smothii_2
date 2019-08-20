@@ -1,0 +1,30 @@
+{
+  "name": "smothii_2",
+  "version": "2.0.0",
+  "description": "smothii_2",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdahle/smothii_2.git"
+  },
+  "author": "jdahle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmdahle/smothii_2/issues"
+  },
+  "homepage": "https://github.com/jmdahle/smothii_2#readme"
+}
